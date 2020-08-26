@@ -1,0 +1,7 @@
+Resumo de quais as vantagens de se utilizar o git:
+  - Permite a alteração dos códigos de forma simultânea por diversos dev's, sem que sejam sobrescrevidas as alterações umas pelas outras.
+  - Permite a restauração de forma fácil e rápida de versões anteriores em casos de bugs/problemas.
+  - Possui um controle de alterações realizadas por inúmeras pessoas no mesmo projeto.
+  - Possui um desempenho melhor que outras opções de sistema similares de controle de versões, como o SVN e o CSV.
+  - Permite trabalhar offline, na maquina de cada dev vai existir uma cópia completa e funcional do projeto.
+  - Permite trabalhar como conceito de branch aonde é possível criar ramificações independentes de um projeto utilizando o mesmo código fonte como base, para que posteriormente sejam mescladas na ramificação principal.
